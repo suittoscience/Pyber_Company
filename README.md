@@ -1,2 +1,2 @@
-# Pyber_HW
-HW Assignment 5 (Matplotlib)
+# Pyber_Company
+Assignment 5 (Python3/Matplotlib)
